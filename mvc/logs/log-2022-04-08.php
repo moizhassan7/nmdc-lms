@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-08 06:07:49 --> Could not find the language line "menu_Faculty"
+ERROR - 2022-04-08 06:07:49 --> Could not find the language line "menu_Staff"
+ERROR - 2022-04-08 06:07:49 --> Could not find the language line "menu_Liability"
+ERROR - 2022-04-08 06:07:49 --> Could not find the language line "menu_Accounts"
+ERROR - 2022-04-08 06:09:20 --> Could not find the language line "menu_Faculty"
+ERROR - 2022-04-08 06:09:20 --> Could not find the language line "menu_Staff"
+ERROR - 2022-04-08 06:09:20 --> Could not find the language line "menu_Liability"
+ERROR - 2022-04-08 06:09:20 --> Could not find the language line "menu_Accounts"
+ERROR - 2022-04-08 06:10:57 --> Could not find the language line "menu_Faculty"
+ERROR - 2022-04-08 06:10:57 --> Could not find the language line "menu_Staff"
+ERROR - 2022-04-08 06:10:57 --> Could not find the language line "menu_Liability"
+ERROR - 2022-04-08 06:10:57 --> Could not find the language line "menu_Accounts"
+ERROR - 2022-04-08 06:32:41 --> Could not find the language line "menu_Faculty"
+ERROR - 2022-04-08 06:32:41 --> Could not find the language line "menu_Staff"
+ERROR - 2022-04-08 06:32:41 --> Could not find the language line "menu_Liability"
+ERROR - 2022-04-08 06:32:41 --> Could not find the language line "menu_Accounts"

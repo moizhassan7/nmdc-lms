@@ -1,0 +1,104 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "slno"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "slno"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "edit"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "delete"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "slno"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "edit"
+ERROR - 2021-01-11 14:21:30 --> Could not find the language line "delete"
+ERROR - 2021-01-11 16:47:12 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 17:14:51 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1857
+ERROR - 2021-01-11 17:15:30 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1857
+ERROR - 2021-01-11 17:18:06 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 17:19:41 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 924
+ERROR - 2021-01-11 17:27:55 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1857
+ERROR - 2021-01-11 17:40:20 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 17:42:17 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1857
+ERROR - 2021-01-11 17:42:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 924
+ERROR - 2021-01-11 18:03:12 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:08:22 --> Severity: Notice --> Undefined property: stdClass::$note E:\PHP\htdocs\rmc\mvc\views\invoice\edit.php 96
+ERROR - 2021-01-11 18:21:33 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:26:54 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:28:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:29:33 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:31:00 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:35:17 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 924
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:52 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:45:53 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 18:47:56 --> Severity: Notice --> Undefined property: stdClass::$srregisterNO E:\PHP\htdocs\rmc\mvc\controllers\Invoice.php 1603
+ERROR - 2021-01-11 19:04:36 --> Severity: Notice --> Undefined property: stdClass::$note E:\PHP\htdocs\rmc\mvc\views\invoice\edit.php 96
+ERROR - 2021-01-11 19:07:41 --> Severity: Notice --> Undefined property: stdClass::$note E:\PHP\htdocs\rmc\mvc\views\invoice\edit.php 96
+ERROR - 2021-01-11 19:08:00 --> Severity: Notice --> Undefined property: stdClass::$note E:\PHP\htdocs\rmc\mvc\views\invoice\edit.php 96
